@@ -35,6 +35,7 @@ print ("_____________________________")
 print (dic.get("name",0))
 print (dic.get("thisdoesnotexist",0))   #.get(key,alternative) returns the value belonging to the key OR the second value if the key does not exist
 dic.setdefault("thisdoesnotexist","now it does")        #.setdefault(key,value) : if the key doesnt exist yet create it and give it the value
+dic.setdefault("thisdoesnotexist","this won't show")
 print(dic.get("thisdoesnotexist",0))
 
 print ("_______________________________")

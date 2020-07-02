@@ -60,6 +60,15 @@ def checklist (mylist,list_to_check):                      #check if all items o
     else:
         return [list_of_matches, list_of_non_matches]
 
+def checklist2 (mylist, list_to_check):                 #doesnt work as intended yet
+    list_of_matches = []
+    for x in range(len(list_to_check)):
+        current_list_of_matches = [i for i in mylist if i in list_to_check[x]]
+        for k in range(len(current_list_of_matches)):
+            list_of_matches.append(current_list_of_matches[k])
+    list_of_non_matches = [i for i in mylist if i not in list_of_matches]
+    return [list_of_matches, list_of_non_matches]
+
 def checkdictkeys (dictionary,list_to_check):           #check if all keys of a dictionary exist as items of a list, return those who do/do not
     list_of_keys = list(dictionary.keys())
     return checklist(list_of_keys, list_to_check)
@@ -81,3 +90,16 @@ checkdictkeys(dict_True, listwithinlists)
 print ("\n___________")
 print ("Check second dictionary")
 checkdictkeys(dict_partially_False, listwithinlists)
+print ("\n\n___________")
+print ("Check first, then second list")
+print (checklist2(list_True, listwithinlists))
+print (checklist2(list_partially_False, listwithinlists))
+
+
+
+
+
+
+# how to use [i for i in List1 if i in List2[iterate through all lists within this list]]
+# (x in a for x in b)
+
