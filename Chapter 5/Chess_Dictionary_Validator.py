@@ -8,7 +8,7 @@
 #This function should detect when a bug has resulted in an improper chess board.
 
 a_valid_chessboard = {"1h":"wking", "4d":"bking", "3f":"wqueen", "8d": "brook"}
-an_invalid_chessboard = {"1h":"bking", "4d":"bking", "3k":"wqueen", "8d": "brook"}
+an_invalid_chessboard = {"1h":"bking", "4d":"bking", "3k":"wqueen", "8d": "brook", "4h":"herpaderp"}
 
 def isValidChessBoard(dict):
     error_counter = 0
