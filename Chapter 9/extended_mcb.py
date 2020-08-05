@@ -30,7 +30,7 @@ elif len(sys.argv) == 2:
 
 # delete all
     elif sys.argv[1] == "delete all":
-        mcbShelf.
+        mcbShelf.clear()
 
     elif sys.argv[1] in mcbShelf:
         pyperclip.copy(mcbShelf[sys.argv[1]])

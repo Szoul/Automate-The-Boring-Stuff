@@ -3,7 +3,7 @@ import os
 
 # this will cover plaintext files such as [.txt] and [.py] files
 # binary files like [.pdf] will look like scrambled rubbish, if watched throuh the normal text_editor since they need further intepretation/processing
-# example for binary files is covered in Into(3)
+# example for binary files is covered in Intro(3)
 
 
 
