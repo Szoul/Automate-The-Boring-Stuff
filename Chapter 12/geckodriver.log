@@ -1,0 +1,117 @@
+1598767665175	geckodriver	INFO	Listening on 127.0.0.1:59340
+1598767668422	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofiley0LLKD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598767677473	Marionette	INFO	Listening on port 59348
+1598767677875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598768053387	geckodriver	INFO	Listening on 127.0.0.1:59439
+1598768056585	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofileL6UAGD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598768064467	Marionette	INFO	Listening on port 59448
+1598768064957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598768095658	geckodriver	INFO	Listening on 127.0.0.1:59493
+1598768098770	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofilezx3HIb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598768106147	Marionette	INFO	Listening on port 59503
+1598768106702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 64: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+1598768372536	geckodriver	INFO	Listening on 127.0.0.1:59587
+1598768375661	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofilebR9J7D"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598768383447	Marionette	INFO	Listening on port 59595
+1598768383504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 64: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+1598768429460	geckodriver	INFO	Listening on 127.0.0.1:59657
+1598768432575	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofileSM2kfQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598768439782	Marionette	INFO	Listening on port 59665
+1598768439923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 64: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+1598768549212	geckodriver	INFO	Listening on 127.0.0.1:59734
+1598768552328	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofileoAJu7Z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598768559498	Marionette	INFO	Listening on port 59742
+1598768559670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 64: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+1598769039789	geckodriver	INFO	Listening on 127.0.0.1:59831
+1598769043033	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofileCfIveu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598769051437	Marionette	INFO	Listening on port 59839
+1598769051591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 64: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+1598769186918	geckodriver	INFO	Listening on 127.0.0.1:59905
+1598769189944	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofilePXRYPX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598769197943	Marionette	INFO	Listening on port 59914
+1598769198390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598769357994	geckodriver	INFO	Listening on 127.0.0.1:59996
+1598769361143	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofilelVYeD1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1598769369804	Marionette	INFO	Listening on port 60004
+1598769370155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598769434824	geckodriver	INFO	Listening on 127.0.0.1:60053
+1598769437961	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofileIz1jR0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598769445672	Marionette	INFO	Listening on port 60061
+1598769445815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598769658578	geckodriver	INFO	Listening on 127.0.0.1:60138
+1598769661773	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofile3Th6mA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598769669620	Marionette	INFO	Listening on port 60146
+1598769669656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 64: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+1598769701625	geckodriver	INFO	Listening on 127.0.0.1:60201
+1598769704713	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofilert3E1d"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598769711418	Marionette	INFO	Listening on port 60210
+1598769711546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598769731201	geckodriver	INFO	Listening on 127.0.0.1:60256
+1598769734324	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofileHlSaAj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598769740447	Marionette	INFO	Listening on port 60264
+1598769740548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598769852970	geckodriver	INFO	Listening on 127.0.0.1:60314
+1598769856057	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofile2wT8HH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598769862815	Marionette	INFO	Listening on port 60322
+1598769862910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598769903529	geckodriver	INFO	Listening on 127.0.0.1:60373
+1598769906566	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofile59Y8qu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598769913496	Marionette	INFO	Listening on port 60381
+1598769913897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598769944142	geckodriver	INFO	Listening on 127.0.0.1:60426
+1598769947248	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofileGfLMx2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598769953544	Marionette	INFO	Listening on port 60435
+1598769953590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1598770435179	geckodriver	INFO	Listening on 127.0.0.1:60613
+1598770438270	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofile1Ajun4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598770446564	Marionette	INFO	Listening on port 60621
+1598770446626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 64: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+1598770601490	geckodriver	INFO	Listening on 127.0.0.1:60701
+1598770604609	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ACERPC~1\\AppData\\Local\\Temp\\rust_mozprofile291k5O"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598770616015	Marionette	INFO	Listening on port 60724
+1598770616354	Marionette	WARN	TLS certificate errors will be ignored for this session

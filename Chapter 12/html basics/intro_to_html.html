@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<!-- Everything between "html" and "/html" is interpreted as HTML, "body" and "/body" describes the main content  -->
+<!-- opening tag : write content : closing tag  == element -->
+<html>
+<head>
+    <title>Haddaway</title>
+</head>
+<body>
+
+    <h1>What is love?</h1>                                  <!-- headings: from h1 to h6 (== certain size/formatting of text)-->
+    <h3>Oh baby, dont hurt me</h3>
+    <p>dont hurt me</p>                                     <!-- <p>...</p> same as \n in python (or rather "paragraph")-->
+    <p><em>No</em> <strong>more</strong></p>                <!-- <em> and <strong> are examples for emphasizing text || <br> to break line-->
+
+    <ul>                                                    <!-- ul = unordered list | ol = ordered list-->
+        <li>Oh baby, dont hurt me, dont hurt me</li>
+        <li>no more</li>
+        <li>What is love?</li>
+        <li>Yeah</li>
+        <ol>
+            No, I don't know why you're not fair<br>
+            I give you my love, but you don't care<br>
+            So what is right and what is wrong?<br>
+            Gimme a sign
+        </ol>
+    </ul>
+
+    <table>                                     <!-- basically like excel table: tr = table row (in order, so first tr element = first row) | td = data cell (also in order)-->
+        <tr>
+            <td>What</td>
+            <td>is</td>
+            <td>love</td>
+            <td>?</td>
+        </tr>
+        <tr>
+            <td>Oh</td>
+            <td>baby</td>
+            <td>,</td>
+            <td>dont</td>
+            <td>hurt</td>
+            <td>me</td>
+        </tr>
+        <tr>
+            <td>Dont</td>
+            <td>hurt</td>
+            <td>me</td>
+        </tr>
+        <tr>
+            <td>no</td>
+            <td>more</td>
+        </tr>
+    </table>
+
+    <!-- Form: the equivalent of pythons input(), but in complicated(and fancy possibilities)-->
+    <form action = "input_save.php" method = "POST" >               <!-- action: sent the input to that location, method: how will the data be send-->
+        <!-- <input type = "whatever" >-->
+        <textarea rows="5" cols="20", name="textbox">Whoa, whoa, whoa, whoa, whoa, whoa, oh, oh
+                                    Whoa, whoa, whoa, whoa, whoa, whoa, oh, oh</textarea>
+        
+        <br><br><br>
+
+        <!-- input and select will send the form that is selected/text that is written or whatever input is given-->
+        <!-- when prcessing the data, it is important to give each input a name (-> variable name)-->
+        <select name = "selection">
+            <option selected>Oh, I don't know, what can I do?</option>
+            <option>What else can I say? It's up to you</option>
+            <option>I know we're one, just me and you</option>
+            <option value = "no i cant go on">I can't go on</option>
+        </select>
+    </form>
+
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/ColognePride_2019-Sonntag-Hauptb%C3%BChne-2038-Haddaway_und_Dinah_Nah--9169.jpg" width = "240" height="180" alt = "A picture of Haddaway">
+                                                            <!-- careful with using images: filesize matters (=> Downloadspeed) -->
+    <p><a href="https://www.youtube.com/watch?v=oHg5SJYRHA0"> Song Link (Youtube) </a></p>      <!-- anchor tag (a) == link | could be another page, something on this page, or for example another file (location relative to cwd/this html)-->
+</body> 
+</html>
